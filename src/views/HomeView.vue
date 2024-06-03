@@ -261,6 +261,7 @@ const items = ref([
 .main-article {
   background: url('/src/assets/images/roccella.jpg') rgba(0, 0, 0, 0.3);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .ghiaccio {
