@@ -1,7 +1,7 @@
 
 # Coding Challenge
 
-Statitc webpage using VueJs 3 and Tailwind UI to be done in 8hrs 
+Static webpage using VueJs 3 and Tailwind UI to be done in 8hrs 
 
 
 
